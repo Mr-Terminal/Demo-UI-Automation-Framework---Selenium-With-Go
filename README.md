@@ -54,7 +54,7 @@ To run all the test files present in directory and subdirectories in the Module
 To run a particular package present in my Module
 
 ```bash
-  go get -v ./Tests...
+  go test -v ./Tests...
 ```
   
 
